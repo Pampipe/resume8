@@ -71,7 +71,7 @@
               <p class="card-text"></p>
             </div>
           </div>
-          <div class="card" style="width: 18rem;"> <img src="pw.jpg" class="card-img-top"
+          <div class="card" style="width: 18rem;"> <img src="image/pw.jpg" class="card-img-top"
               alt="..." title="pic4">
             <div class="card-body">
               <p class="card-text">Service No.1</p>
